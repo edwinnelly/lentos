@@ -32,7 +32,7 @@
 <li><a href="app-calendar.html">New Payout</a></li>
 <li><a href="app-contact.html">New Sales Order</a></li>
 <li><a href="app-contact-grid.html">New Layaway <span class="badge badge-warning float-right">New</span></a></li>
-<li><a href="app-taskboard.html">New Work Order</a></li>
+<li><a href="app-taskboard.php">New Work Order</a></li>
 <li><a href="app-taskboard.html">Sales History</a></li>
 <li><a href="app-taskboard.html">Held Receipts</a></li>
 <li><a href="app-taskboard.html">Sales Order List</a></li>
